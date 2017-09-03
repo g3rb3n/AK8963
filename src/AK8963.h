@@ -6,9 +6,6 @@
 
 #include "AK8963_enums.h"
 
-#include <SPI.h>
-#include <Wire.h>
-
 #define AK8963_ADDRESS    0x0C
 
 namespace g3rb3n{

@@ -3,11 +3,9 @@
 #include "AK8963_registers.h"
 #include "AK8963_register_masks.h"
 #include "AK8963_register_values.h"
-#include "AK8963_enums.h"
 
 #include <Point3D_Math.h>
 #include <Point3D_Print.h>
-#include <I2C.h>
 
 namespace g3rb3n
 {
